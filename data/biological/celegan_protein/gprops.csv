@@ -1,0 +1,6 @@
+# prop_name, value
+name,celegans_interactomes (wi2007)
+description,"Ten networks of protein-protein interactions in Caenorhabditis elegans (nematode), from yeast two-hybrid experiments, biological process maps, literature curation, orthologous interactions, and genetic interactions. The WI8 network combines WI2004, WI2007 and BPmaps, while the Integrated Network combines data from all sources"
+citation,"['N. Simonis et al.,']"
+url,http://interactome.dfci.harvard.edu/C_elegans/index.php?page=download
+tags,"['Biological', 'Protein interactions', 'Unweighted']"
